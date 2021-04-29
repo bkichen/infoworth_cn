@@ -1,0 +1,1 @@
+var DTPath = "http://www.51b2b.com/";var DTMob = "http://m.51b2b.com/";var SKPath = "http://www.51b2b.com/skin/default/";var MEPath = "http://www.51b2b.com/member/";var DTEditor = "fckeditor";var CKDomain = ".51b2b.com";var CKPath = "/";var CKPrex = "D5s_";
